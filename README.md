@@ -56,4 +56,4 @@ The goal is to provide actionable recommendations to optimize **inventory, marke
 ## How to Run the Project
 1. Clone the repository:  
 ```bash
-git clone https://github.com/your-username/Sales-Analysis-Project.git
+git clone https://github.com/Udhaya-Bharathi/E-Commerce-Sales-Analysis-Project
